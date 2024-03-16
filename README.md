@@ -3,3 +3,6 @@
 Sanskar Sahu 
 # Class 
 IT 'B'
+# College
+Medicaps University
+
